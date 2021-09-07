@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Bonjour 👋, I'm Chetan Talwar</h1>
+<h3 align="center">Filmmaker, Writer, Graphic Designer and Accidentally an Engineer too</h3>
 
-<!--
-**thechetantalwar/thechetantalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **DevOps, Cloud, Containers and of course Movies**
 
-Here are some ideas to get you started:
+- 📫 Reach out to me at **chetan.talwar@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thechetantalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thechetantalwar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thechetantalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thechetantalwar" height="30" width="40" /></a>
+<a href="https://instagram.com/konnectchetan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="konnectchetan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vdofarmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vdofarmer" height="30" width="40" /></a>
+</p>
