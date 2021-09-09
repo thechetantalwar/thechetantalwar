@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **DevOps, Cloud, Containers and of course Movies**
 
-- 📫 Reach out to me at **chetan.talwar@gmail.com**
+- 📫 Reach out to me at **chetan.talwar@gmail.com**,**chetan.talwar@thinknyx.com**
 
-- 💬 Join me at Slack at **https://learninghub-crew.slack.com/**
+- 💬 Join me on Slack at **https://learninghub-crew.slack.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
