@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/thechetantalwar" target="blank"><img align="center" src="https://img.icons8.com/material/50/000000/facebook--v1.png" alt="thechetantalwar" height="30" width="30" /></a>
+<a href="https://twitter.com/thechetantalwar" target="blank"><img align="center" src="https://img.icons8.com/material/50/000000/twitter--v1.png" alt="thechetantalwar" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/thechetantalwar" target="blank"><img align="center" src="https://img.icons8.com/material/24/000000/linkedin--v3.png" alt="thechetantalwar" height="30" width="30" /></a>
 <a href="https://instagram.com/konnectchetan" target="blank"><img align="center" src="https://img.icons8.com/material/24/000000/instagram-new--v1.png" alt="konnectchetan" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/vdofarmer" target="blank"><img align="center" src="https://img.icons8.com/material/24/000000/youtube-play--v1.png" alt="vdofarmer" height="30" width="30" /></a>
