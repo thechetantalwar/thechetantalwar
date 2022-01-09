@@ -5,7 +5,7 @@
 
 - 📫 Reach out to me at **chetan.talwar@gmail.com**,**chetan.talwar@thinknyx.com**
 
-- 💬 Morw at **https://chetantalwar.com**
+- 💬 More at **https://chetantalwar.com**
 
 - 💬 Join me on Slack at **https://learninghub-crew.slack.com/**
 
@@ -17,4 +17,3 @@
 <a href="https://www.youtube.com/c/vdofarmer" target="blank"><img align="center" src="https://img.icons8.com/material/24/000000/youtube-play--v1.png" alt="vdofarmer" height="30" width="30" /></a>
  <a href="https://learninghub-crew.slack.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/slack-new.png" alt="LearningHub" height="30" width="30" /></a> 
 </p>
-
