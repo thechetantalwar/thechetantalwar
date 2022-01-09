@@ -5,6 +5,8 @@
 
 - 📫 Reach out to me at **chetan.talwar@gmail.com**,**chetan.talwar@thinknyx.com**
 
+- 💬 Morw at **https://chetantalwar.com**
+
 - 💬 Join me on Slack at **https://learninghub-crew.slack.com/**
 
 <h3 align="left">Connect with me:</h3>
